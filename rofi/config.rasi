@@ -1,0 +1,6 @@
+configuration {
+
+combi-modi: "drun,run,ssh";
+matching: "fuzzy";
+}
+@theme "~/.config/rofi/rofitheme.rasi"
