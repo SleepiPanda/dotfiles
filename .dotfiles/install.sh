@@ -1,4 +1,6 @@
-apt install git i3 polybar neovim zsh flameshot kitty rofi nitrogen
+sudo apt install git curl i3 polybar neovim zsh flameshot kitty rofi nitrogen picom gccgo-go
+
+go install github.com/rhysd/dotfiles@latest
 
 
 
